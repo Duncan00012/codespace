@@ -5,6 +5,3 @@ int main (void)
 
 const int x = 12;
 
-{
-    printf(%i, x );
-}
